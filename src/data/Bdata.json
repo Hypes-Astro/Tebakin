@@ -1,0 +1,24 @@
+[
+    { "id": 1, "kata": "rumah", "definisi": "Tempat tinggal atau bangunan tempat manusia tinggal." },
+    { "id": 2, "kata": "makan", "definisi": "Proses mengonsumsi makanan untuk memenuhi kebutuhan energi." },
+    { "id": 3, "kata": "hujan", "definisi": "Air yang turun dari awan dalam bentuk tetesan air cair." },
+    { "id": 4, "kata": "pohon", "definisi": "Tumbuhan yang memiliki batang dan cabang, biasanya memiliki daun dan akar." },
+    { "id": 5, "kata": "sekolah", "definisi": "Tempat pendidikan di mana siswa belajar dan mendapatkan pengetahuan." },
+    { "id": 6, "kata": "mobil", "definisi": "Kendaraan bermotor dengan empat roda yang digunakan untuk transportasi." },
+    { "id": 7, "kata": "pakaian", "definisi": "Barang yang dikenakan untuk menutupi tubuh, seperti baju dan celana." },
+    { "id": 8, "kata": "alam", "definisi": "Lingkungan fisik di sekitar kita, termasuk bumi, langit, dan semua makhluk hidup." },
+    { "id": 9, "kata": "burung", "definisi": "Hewan berdarah panas yang memiliki sayap dan biasanya bisa terbang." },
+    { "id": 10, "kata": "matahari", "definisi": "Bintang pusat tata surya kita, memberikan cahaya dan panas ke bumi." },
+    { "id": 11, "kata": "berjalan", "definisi": "Bergerak dengan kaki dari satu tempat ke tempat lain." },
+    { "id": 12, "kata": "anak", "definisi": "Seseorang yang belum dewasa, biasanya merujuk pada keturunan manusia." },
+    { "id": 13, "kata": "pintu", "definisi": "Panel yang bisa dibuka dan ditutup untuk masuk atau keluar dari bangunan atau ruangan." },
+    { "id": 14, "kata": "mata", "definisi": "Organ sensorik yang digunakan untuk melihat dan merasakan cahaya." },
+    { "id": 15, "kata": "minum", "definisi": "Memasukkan cairan ke dalam tubuh melalui mulut untuk menghilangkan dahaga." },
+    { "id": 16, "kata": "kucing", "definisi": "Hewan mamalia kecil dengan bulu yang lembut dan biasanya memiliki cakar." },
+    { "id": 17, "kata": "taman", "definisi": "Area terbuka yang biasanya ditanami dengan tanaman dan digunakan untuk rekreasi." },
+    { "id": 18, "kata": "kertas", "definisi": "Bahan yang biasanya digunakan untuk menulis, mencetak, atau menggambar." },
+    { "id": 19, "kata": "pantai", "definisi": "Daerah di tepi laut atau danau yang berpasir atau berbatu." },
+    { "id": 20, "kata": "bulan", "definisi": "Satelit alami bumi yang mengorbit dan memantulkan cahaya matahari." },
+    { "id": 21, "kata": "bola", "definisi": "Benda bulat yang digunakan dalam berbagai jenis permainan." }
+  ]
+  
