@@ -6,11 +6,14 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'poppins': ['Poppins', 'sans-serif'],
+      },
       colors: {
         bgAksen: '#6ee755',
         bgPrimer: '#98BBFF',
-        textPrimer: '#ffffff',
-        textSecondary: '#000000',
+        textPrimer: '#ACBA4D',
+        textSecondary: '#464646',
         textNonHover: '#9a9a9a',
       },
       fontSize: {
@@ -21,6 +24,9 @@ export default {
       }
     },
   },
-  plugins: [],
+
+  
+  // eslint-disable-next-line no-undef
+  plugins: [require("daisyui")],
 }
 
